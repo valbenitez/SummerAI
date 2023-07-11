@@ -1,0 +1,1 @@
+I learned how to identify something's features, including if it is deterministic, static, etc.
